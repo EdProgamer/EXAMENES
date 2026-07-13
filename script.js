@@ -11,9 +11,9 @@ document.getElementById('formDNI').addEventListener('submit', function(e) {
 
   if (resultado) {
     document.getElementById('resultado').innerText = 
-      `Tu puntaje es: ${resultado.Puntaje}`;
+      `Tu puntaje obtenido es: ${resultado.Puntaje}`;
   } else {
     document.getElementById('resultado').innerText = 
-      'DNI no encontrado';
+      'DNI no válido';
   }
 });
