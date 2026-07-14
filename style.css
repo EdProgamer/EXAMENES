@@ -8,3 +8,19 @@ input, button {
   padding: 10px;
   margin: 5px;
 }
+  #resultado {
+    background-color: #f9f9f9;   /* Fondo suave */
+    border: 2px solid #4CAF50;   /* Borde verde */
+    border-radius: 10px;         /* Esquinas redondeadas */
+    padding: 5px;               /* Espacio interno */
+    font-family: Verdana, sans-serif; /* Fuente */
+    font-size: 16px;             /* Tamaño de texto */
+    color: #333;                 /* Color del texto */
+    margin-top: 20px;            /* Espacio superior */
+    text-align: center;          /* Centrar texto */
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.2); /* Sombra */
+  }
+
+
+
+
