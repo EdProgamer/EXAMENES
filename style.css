@@ -9,8 +9,7 @@ input, button {
   margin: 5px;
 }
   #resultado {
-    background-color: #f9f9f9;   /* Fondo suave */
-    border: 2px solid #4CAF50;   /* Borde verde */
+    
     border-radius: 10px;         /* Esquinas redondeadas */
     padding: 5px;               /* Espacio interno */
     font-family: Verdana, sans-serif; /* Fuente */
